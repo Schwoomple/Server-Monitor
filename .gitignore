@@ -1,0 +1,11 @@
+# Ignore bot token
+token.txt
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+.venv/
+venv/
+env/
