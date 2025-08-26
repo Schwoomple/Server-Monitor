@@ -1,5 +1,5 @@
 <h1 align="center"> 
-  # Server-Monitor 
+  Server-Monitor 
 </h1>
 
 A Discord bot for monitoring a game server's status. 
