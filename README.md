@@ -1,4 +1,6 @@
-<p align="center"> # Server-Monitor </p>
+<p align="center"> 
+  # Server-Monitor 
+</p>
 
 A Discord bot for monitoring a game server's status. 
 
