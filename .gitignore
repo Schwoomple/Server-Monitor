@@ -1,6 +1,12 @@
 # Ignore bot token
 token.txt
 
+# Ignore guild ID
+guild_id.txt
+
+# Ignore readme
+README.md
+
 # Ignore Python cache
 __pycache__/
 *.pyc
